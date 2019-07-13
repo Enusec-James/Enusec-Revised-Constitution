@@ -100,17 +100,39 @@
   
   - Should ENUSEC wish to disband, a unanimous vote from all Committee members will be required.
     - Should ENUSEC be disbanded, any assets of the society shall be donated to Edinburgh Napier University's School of Computing.
-    
-4. Voting
-  - Comittee Elections Voting
+   
+### 4. Voting
+
+1. Comittee Elections Voting
+
+  - Eligibility
    - Members must have had a sustained membership for at least 12 weeks prior to voting.
-   - Voting is restricted to one ballot per position per active paying member.
-  	- Voting will be anonymous, performed in private and silence.
-	  - Voting will be performed using the Single Transferable Vote voting system. 
-	    - For each role, the first applicant with a majority preference is elected.
-	    - Each role will have a corresponding ballot and election.
-	    - The option to re-open nominations will be given for each role.
-	    - Only digits in their respective fields will be counted, any other markings will be treated as a spoilt ballot.
-	    - All spoiled ballots will be discounted.
+   
+  - Procedure
+   - Voting is restricted to one ballot per position per active eligible member.
+   - Voting will be performed using pen and paper ballots.
+   - Voting will be performed using the Single Transferable Vote voting system.
+    - For each role, the first applicant with a majority preference is elected.
+    - Each role will have a corresponding ballot and election.
+    - The option to vote to re-open nominations (RON) will be given for each role.
+    - Only digits in their respective fields will be counted, any other markings will be treated as a spoilt ballot.
+    - All spoiled ballots will be discounted.
+   - Voting will be anonymous, performed in private and silence.
+	    
       - Votes will be counted by members of the current ENUSEC Committee who are not running in said election.
 	    - If nominations are re-opened, eligable members present are allowed to run against current candidates.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
