@@ -51,6 +51,7 @@
   - The Committee will also have a supporting body of Year Representatives. 
     - These Year Representatives will follow a different voting calendar from the Committee. 
     - They will be elected to liaise with each year group and offer direct support to the Committee where required.
+
 2. Role Descriptions
 
   - President
