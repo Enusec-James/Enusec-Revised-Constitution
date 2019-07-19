@@ -33,7 +33,7 @@
   
 3. The procedure for handling COC violations are as follows
   - Warnings
-    - If any members is found in breach of the COC, then the committee will issue up to 2 warnings before voting for moving to expulsion.
+    - If any members are found in breach of the COC, then the committee will issue up to 2 warnings before voting for moving to expulsion.
   - Expulsion
     - After 2 warnings and upon a majority vote by committee, the committee may expel any member whose conduct is likely to bring the society into disrepute.
 
@@ -50,7 +50,7 @@
   - The Committee will have a supporting body of Advisors, who are past members of the Committee.
   - The Committee will also have a supporting body of Year Representatives. 
     - These Year Representatives will follow a different voting calendar from the Committee. 
-    - They will be elected to liase with each year group and offer direct support to the Committee where required.
+    - They will be elected to liaise with each year group and offer direct support to the Committee where required.
 2. Role Descriptions
 
   - President
@@ -82,13 +82,12 @@
     - Organize regular social events for ENUSEC's members.
     - Manage website content and social media accounts.
     
-  - General Committee Responsibilites
-    - Ensure that there is a safe enviroment for everyone that is free from danger.
-    - Maintain ENUSEC's equipment/hardware, including the Cloud Enviroment.
-    - Ensure that the society does not go into disrespute.
+  - General Committee Responsibilities
+    - Ensure that there is a safe environment for everyone that is free from danger.
+    - Maintain ENUSEC's equipment/hardware, including the Cloud Environment.
+    - Ensure that the society does not go into disrepute.
     
 3. Information
-  - All positions-holders are expected to be School of Computing students and paying members of ENUSEC.
   
   - Voting will take place at the Annual General Meeting (AGM).
   
@@ -100,18 +99,37 @@
   
   - Should ENUSEC wish to disband, a unanimous vote from all Committee members will be required.
     - Should ENUSEC be disbanded, any assets of the society shall be donated to Edinburgh Napier University's School of Computing.
-4. Voting
-  
-	  - Voting will be anonymous, performed in private and silence.
-	
-	  - Voting is restricted to one ballot per position per active paying member.
-	    - Members must have had a sustained membership for atleast 12 weeks prior to voting.
-	
-	  - Voting will be performed using the Single Transferable Vote voting system. 
-	    - For each role, the first applicant with a majority preference is elected.
-	    - Each role will have a corresponding ballot and election.
-	    - The option to re-open nominations will be given for each role.
-	    - Only digits in their respective fields will be counted, any other markings will be treated as a spoilt ballot.
-	    - All spoiled ballots will be discounted.
-      - Votes will be counted by members of the current ENUSEC Committee who are not running in said election.
-	    - If nominations are re-opened, eligable members present are allowed to run against current candidates.
+   
+### 4. Voting
+
+1. Committee Elections
+
+  - Candidate Eligibility
+   - Candidates must be School of Computing students.
+   - Candidates must be paying members of ENUSEC who have sustained membership for at least 12 weeks prior to the start of voting.
+
+  - Voting Eligibility
+   - Voters must have sustained an ENUSEC membership for at least 12 weeks prior to the start of voting.
+   
+  - Procedure
+   - Voting is restricted to one ballot per position per active eligible member.
+   - Each role will have a corresponding ballot and election.
+   - The option to vote to re-open nominations (RON) will be given for each role.
+   - Voting will be performed using pen and paper ballots.
+   - Voting will be anonymous, performed in private and in silence.
+   - Voting will be performed using the Single Transferable voting system.
+    - For each role, the first candidate with > 50% of all votes cast is elected.
+    - Only digits in their respective fields will be counted, any other markings will be treated as a spoilt ballot.
+   - All spoiled ballots will be discounted.
+   - Votes will be counted by members of the current ENUSEC Committee who are not running in said election.
+
+  - Results
+   - The names of the newly elected individuals must be announced after all voting has concluded.
+   - The committee is only required to announce the winning names of an election.
+   - In the event of suspected breach in election rules, the committee will conduct an investigation and report findings to the membership.
+
+  - Draw OR RON win
+   - For roles in this scenario, nominations will be reopened and another election will be called immediately.
+   - Any eligible members present may run against current candidates.
+   - In the event no candidate can be elected after this election, the role will be considered unoccupied.
+   
